@@ -16,6 +16,6 @@ class Buyer (User):
         print("Password:", self.password)
         print("Address:", self.address)
         print("National Code:", self.national_code)
-     buyer = Buyer("john123", "password123", "123 Main St", "1234567890")
+     buyer = Buyer("maryam", "maryam4203", "123 Main St", "4200368171")
 buyer.print_info()
         
